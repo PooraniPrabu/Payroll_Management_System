@@ -10,3 +10,5 @@ Platform : SSMS(SQL Server Management Studio)
 Version : 19.3
 
 
+![image](https://github.com/PooraniPrabu/Payroll_Management_System/assets/126182189/5f5e66e8-699b-4477-b0f9-1fe583d657f5)
+
